@@ -1,0 +1,11 @@
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\bin\Debug\ContactList.exe
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\bin\Debug\ContactList.pdb
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\obj\Debug\ContactList.csproj.AssemblyReference.cache
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\obj\Debug\ContactList.frmLogin.resources
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\obj\Debug\ContactList.formContacts.resources
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\obj\Debug\ContactList.csproj.GenerateResource.cache
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\obj\Debug\ContactList.exe
+C:\Users\403YUSUF_SABAH\source\repos\ADO.NET_Project\ContactList\obj\Debug\ContactList.pdb
